@@ -16,6 +16,13 @@ https://home.openweathermap.org/api_keys
 # Testing the Project
 You can use Postman to test the API by sending GET request to the provided endpoint.
 
+
+# API Used
+
+Google Maps Geocoding: https://developers.google.com/maps/documentation/geocoding/requests-geocoding
+
+OpenWeather History API: https://openweathermap.org/history
+
 # API-EndPoint
 Method: GET
 
