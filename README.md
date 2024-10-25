@@ -13,7 +13,7 @@ https://console.cloud.google.com/
 Get OpenWeather API key at:
 https://home.openweathermap.org/api_keys
 
-# Testing the Project
+# Testing
 You can use Postman to test the API by sending GET request to the provided endpoint.
 
 
