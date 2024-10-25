@@ -17,6 +17,9 @@ https://home.openweathermap.org/api_keys
 You can use Postman to test the API by sending GET request to the provided endpoint.
 
 # API-EndPoint
+Method: GET
+
+
 Endpoint: http://localhost:8080/api/weather/{requested_pincode}/{requested_date}
 
 
